@@ -1,1 +1,5 @@
-{"status": "active","signature": "MARTIN_SECURE_2026","allowed_keys": ["BYMARTINSAMP"]}
+{
+  "status": "active",
+  "signature": "MARTIN_SECURE_2026",
+  "allowed_keys": ["BYMARTINSAMP"]
+}
